@@ -1,4 +1,4 @@
-# Calibri - Camera Calibration Example
+# Calibri
 
 - Calibri is a showcase of implementing a
 
