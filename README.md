@@ -1,5 +1,16 @@
 # Calibri - Camera Calibration Example
 
+- Calibri is a showcase of implementing a
+
+  - `Camera Calibration`
+  - `Augmented Reality (AR)`
+
+  on a Chessboard using OpenCV using OpenCV.
+
+- I have used a chessboard of size 9x7 for the calibration.
+
+Please, refer to the `implementation.py` and the result video for the expected result.
+
 ## Calibration Result
 
 ```python
@@ -16,7 +27,7 @@
 
 ## Results of Camera Calibration and AR
 
-### Captured Images 
+### Captured Images
 
 - Here, the word "HO" is a just random word choosen to be displayed in the AR.
 
@@ -26,6 +37,4 @@
 
 ### Video Results
 
-
 https://user-images.githubusercontent.com/65296404/235365020-e4a8c1fd-9893-4ddd-b013-7c4a2105b584.mov
-
