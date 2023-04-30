@@ -1,8 +1,5 @@
 # Calibri - Camera Calibration Example
 
-
-
-
 ## Calibration Result
 
 ```python
@@ -27,7 +24,8 @@
 | :-------------------------------------: | :----------------------------------: |
 | ![](data/images/camera_calibration.png) | ![](data/images/converted_image.png) |
 
-### Video Results 
+### Video Results
+
 
 
 https://user-images.githubusercontent.com/65296404/235365020-e4a8c1fd-9893-4ddd-b013-7c4a2105b584.mov
