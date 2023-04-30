@@ -5,7 +5,7 @@
   - `Camera Calibration`
   - `Augmented Reality (AR)`
 
-  on a Chessboard using OpenCV using OpenCV.
+  on a Chessboard using OpenCV.
 
 - I have used a chessboard of size 9x7 for the calibration.
 
